@@ -1,4 +1,4 @@
-arras network server used to communicate with other players 
+light weight arras network server used to communicate with other players 
 
 Chat messages
 Player coordinates
@@ -6,4 +6,4 @@ Score
 Tank
 
 
-Made With AI
+Made With AI.
