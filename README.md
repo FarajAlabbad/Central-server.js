@@ -4,6 +4,6 @@ Chat messages
 Player coordinates
 Score
 Tank
-
+Grant bots
 
 Made With AI.
